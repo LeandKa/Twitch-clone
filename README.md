@@ -21,3 +21,9 @@
 
 <p>Criação de um Clone do Aplicativo da twitch para estudo de react native.Este projeto tem como base o video da Rocketseat <a href="https://www.youtube.com/watch?v=bJVp_vlvMwQ"></a>
 foi usado expo cli para teste.</p>
+
+
+<h1>:pushpin: Como Usar</h1>
+
+
+<p>Para usar esse projeto você tem de ter instalado em sua maquina expo-cli feito isso basta fazer o download dos arquivo do projeto e digitar yarn start ou npm start </p>
